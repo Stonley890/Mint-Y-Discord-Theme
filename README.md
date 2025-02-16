@@ -38,6 +38,20 @@
 - [ ] Polls
 - [ ] Sticker popout
 
+## Installation
+
+### Prerequisites
+
+You must have a way to apply CSS stylesheets to Discord. Here are some ones you can try:
+
+- [Vencord](https://vencord.dev) (I use this one)
+- [BetterDiscord](https://betterdiscord.app)
+- [Replugged](https://replugged.dev)
+
+Find the themes setting and follow the directions to add this theme.
+
+Theme file (right-click and *Save As* or import from URL): https://raw.githubusercontent.com/Stonley890/Mint-Y-Discord-Theme/refs/heads/main/Mint-Y.theme.css
+
 ## Caveats
 - The activity button is removed.
 - The Nitro gift button is removed.
