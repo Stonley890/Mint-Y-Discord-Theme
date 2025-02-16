@@ -11,8 +11,8 @@
 - [x] Top chat toolbar
 - [ ] Server list
 - [ ] User list
-- [ ] Modals
-- [ ] Expression menu
+- [x] Modals
+- [x] Expression menu
 - [ ] Top friends toolbar
 - [ ] Friends list
 - [ ] Active Now
@@ -55,6 +55,7 @@ Theme file (right-click and *Save As* or import from URL): https://raw.githubuse
 ## Caveats
 - The activity button is removed.
 - The Nitro gift button is removed.
+- Channel scrollbar is invisible.
 
 ## Feedback and Contributions
 Please feel free to open an issue or pull request to report bugs, request features, or propose changes.
