@@ -33,7 +33,7 @@
 - [ ] Discover
 - [ ] Forum channls
 - [ ] Voice channels
-- [ ] Pins
+- [x] Pins
 - [ ] Threads
 - [ ] Polls
 - [ ] Sticker popout

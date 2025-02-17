@@ -449,3 +449,10 @@
     background-color: #525252;
     transition: 0.3s;
 }
+
+/* pins */
+.messageGroupWrapper__45690 {
+    background-color: #404040;
+    border: 1px #292929 solid;
+    border-radius: 2px;
+}
