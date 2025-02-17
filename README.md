@@ -16,7 +16,7 @@
 - [ ] Top friends toolbar
 - [ ] Friends list
 - [ ] Active Now
-- [ ] Inbox
+- [x] Inbox
 - [ ] New DM
 - [ ] Server Guide
 - [ ] Channels & Roles
